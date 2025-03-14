@@ -738,6 +738,7 @@ a {
   transition-property: border-color;
   color: rgb(var(--cl-title / 40%));
   background-color: transparent;
+  color: rgba(46, 47, 66, 0.4);
 }
 
 .modal-form-textarea::placeholder {
